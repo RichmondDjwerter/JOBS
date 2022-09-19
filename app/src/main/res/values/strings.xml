@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JOBS</string>
+    <string name="onBaording_text">Find your dream Job and build Your Career</string>
+
+    <string name="Job1">Dietitian</string>
+    <string name="Job2">Design</string>
+    <string name="Job3">Data</string>
+    <string name="Job4">Finance</string>
+    <string name="Job5">Mechanical</string>
+    <string name="Job6">Software</string>
+    <string name="Job7">Marketing</string>
+
+
+    <string name="Company1">Google</string>
+    <string name="Company2">Instagram</string>
+    <string name="Company3">Tesla</string>
+    <string name="Company4">Youtube</string>
+    <string name="Company5">Tiktok</string>
+    <string name="Company6">Lamborghini</string>
+    <string name="Company7">Twitter</string>
+    <string name="Company8">WhatsApp</string>
+
+</resources>
